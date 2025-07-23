@@ -18,9 +18,6 @@ struct Human *manak = &(struct Human)
   </code>
 </pre>
 
-<!-- Prism JS + C Language Support -->
-<script src="https://cdn.jsdelivr.net/npm/prismjs/prism.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/prismjs/components/prism-c.min.js"></script>
 
 
 ---
@@ -99,6 +96,10 @@ explore the chaos → [all projects](https://github.com/manakcodes/code-brew/blo
 
 
 
+
+
+<!-- 
+
 ---
 
 ### ❤️‍🔥 Tech Stack – Love/Hate Edition
@@ -160,6 +161,8 @@ explore the chaos → [all projects](https://github.com/manakcodes/code-brew/blo
   *−* Half the answers are from 2012 and still better than yours.
 
 ---
+
+-->
 
 
 
