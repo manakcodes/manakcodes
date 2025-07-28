@@ -1,28 +1,62 @@
 
 <!-- Prism CSS (use an actual theme file) -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/prismjs/themes/prism-tomorrow.min.css">
+<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/prismjs/themes/prism-tomorrow.min.css"> -->
 
-# Hi there 👋
+# Hi there 🦧
 
 ## I'm manak
 
 ---
 
-<pre>
-  <code class="language-c">
+<!-- ```c
+// struct human
 struct Human *manak = &(struct Human)
 { 
     "manak", 
-    "loves to code"
+    "loves to code",
+    "data structures and algorithms",
+    "backend development",
+    "machine learning"
 };
-  </code>
-</pre>
 
 
+// intrest struct
+struct Intrests *intrests = &(struct Intrests) 
+{
+  "Data Structures And Algorithms",
+  "Backend Development",
+  "Machine Learning"
+};
+``` -->
+
+---
+```c
+// define human struct
+struct Human manak = {
+    "manak",
+    "loves to code",
+};
+
+// define interests struct
+struct Interests dev_life = {
+    "Data Structures And Algorithms",
+    "Backend Development",
+    "Machine Learning"
+};
+
+// define daily routine method
+void build_life(struct Human *h) {
+    code();
+    build_code();
+    break_code();
+    test_code();
+    ship();
+}
+```
 
 ---
 
-## 🛠️ Things I’ve Built (to stay sane or lose it)
+## 🏗️ Things I’ve Built (to stay sane or lose it)
 
 explore the chaos → [all projects](https://github.com/manakcodes/code-brew/blob/326e384154b97b7c83b7d9550eeb5dd57fd6a907/README.md)
 
