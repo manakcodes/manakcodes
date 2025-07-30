@@ -1,4 +1,3 @@
-
 <!-- Prism CSS (use an actual theme file) -->
 <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/prismjs/themes/prism-tomorrow.min.css"> -->
 
@@ -11,8 +10,8 @@
 <!-- ```c
 // struct human
 struct Human *manak = &(struct Human)
-{ 
-    "manak", 
+{
+    "manak",
     "loves to code",
     "data structures and algorithms",
     "backend development",
@@ -21,7 +20,7 @@ struct Human *manak = &(struct Human)
 
 
 // intrest struct
-struct Intrests *intrests = &(struct Intrests) 
+struct Intrests *intrests = &(struct Intrests)
 {
   "Data Structures And Algorithms",
   "Backend Development",
@@ -29,7 +28,6 @@ struct Intrests *intrests = &(struct Intrests)
 };
 ``` -->
 
----
 ```c
 // define human struct
 struct Human manak = {
@@ -45,12 +43,13 @@ struct Interests dev_life = {
 };
 
 // define daily routine method
-void build_life(struct Human *h) {
-    code();
-    build_code();
-    break_code();
-    test_code();
-    ship();
+void build_life(struct Human *human, struct Interests *intrests)
+{
+    human->code();
+    human->build_code(interests);
+    human->break_code(interests);
+    human->test_code(interests);
+    human->ship_code();
 }
 ```
 
@@ -60,11 +59,7 @@ void build_life(struct Human *h) {
 
 explore the chaos → [all projects](https://github.com/manakcodes/code-brew/blob/main/README.md)
 
-
 ---
-
-
-
 
 ## 🛠️ Tech Stack
 
@@ -104,14 +99,13 @@ explore the chaos → [all projects](https://github.com/manakcodes/code-brew/blo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="bash" />
 </p>
 
-
 #### 🧪 Scientific
+
 <p align="left">
 
-   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" alt="MATLAB" /><img src="scilab.png" width="125" alt="Scilab" /><img src="logisim.png" width="40" alt="Logisim" />
-</p>
 
+</p>
 
 ### 🛠️ IDEs & Editors
 
@@ -124,15 +118,9 @@ explore the chaos → [all projects](https://github.com/manakcodes/code-brew/blo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg" width="40" alt="Spyder" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter" />
 
-
 ---
 
-
-
-
-
-
-<!-- 
+<!--
 
 ---
 
@@ -198,9 +186,6 @@ explore the chaos → [all projects](https://github.com/manakcodes/code-brew/blo
 
 -->
 
-
-
-
 <!--
 **manakcodes/manakcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -215,7 +200,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
 <!--
 **manakcodes/manakcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
