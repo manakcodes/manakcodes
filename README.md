@@ -58,7 +58,7 @@ void build_life(struct Human *h) {
 
 ## 🏗️ Things I’ve Built (to stay sane or lose it)
 
-explore the chaos → [all projects](https://github.com/manakcodes/code-brew/blob/326e384154b97b7c83b7d9550eeb5dd57fd6a907/README.md)
+explore the chaos → [all projects](https://github.com/manakcodes/code-brew/blob/main/README.md)
 
 
 ---
