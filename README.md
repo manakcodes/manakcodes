@@ -70,7 +70,6 @@ explore the chaos → [all projects](https://github.com/manakcodes/code-brew/blo
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python" />
 </p>
 
@@ -78,6 +77,8 @@ explore the chaos → [all projects](https://github.com/manakcodes/code-brew/blo
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-plain.svg" width="60" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-plain.svg" width="60" alt="Pandas" />
 </p>
 
 #### 🛢️ Databases
@@ -93,7 +94,6 @@ explore the chaos → [all projects](https://github.com/manakcodes/code-brew/blo
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript" />
 </p>
 
 #### ⚙️ Tools / Version Control
@@ -112,7 +112,7 @@ explore the chaos → [all projects](https://github.com/manakcodes/code-brew/blo
 
 </p>
 
-### 🛠️ IDEs & Editors
+### 🛝 IDEs & Editors
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VS Code" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="60" alt="Xcode" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nano/nano-original.svg" width="60" alt="Nano" />
