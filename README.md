@@ -28,7 +28,7 @@ struct Intrests *intrests = &(struct Intrests)
 };
 ``` -->
 
-```c
+<!-- ```c
 // define human struct
 struct Human manak = {
     "manak",
@@ -51,6 +51,18 @@ void build_life(struct Human *human, struct Interests *intrests)
     human->test_code(interests);
     human->ship_code();
 }
+``` -->
+
+```json
+{
+  name: "manak,
+  interests: 
+  {
+      "Data Structures And Algorithms",
+      "Full Stack Development",
+      "Machine Learning"
+  }
+}
 ```
 
 ---
@@ -70,7 +82,9 @@ explore the chaos → [all projects](https://github.com/manakcodes/code-brew/blo
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" alt="java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" alt="typescript" />
 </p>
 
 #### 🧃 Frameworks / Libraries
@@ -87,6 +101,7 @@ explore the chaos → [all projects](https://github.com/manakcodes/code-brew/blo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60" alt="SQLite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" alt="mongodb" />
 </p>
 
 #### 🕸️ Web
