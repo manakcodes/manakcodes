@@ -55,47 +55,41 @@ void build_life(struct Human *human, struct Interests *intrests)
 
 ```json
 {
-  name: "manak,
-  interests: 
+  'name': 'manak',
+  'interests':
   {
-      "Data Structures And Algorithms",
-      "Full Stack Development",
-      "Machine Learning"
+      'data-structures-and-algorithms',
+      'full-stack-development',
+      'machine-learning'
   }
 }
 ```
 
----
+## 🏗️ Things I’ve Built
 
-## 🏗️ Things I’ve Built (to stay sane or lose it)
-
-explore the chaos → [all projects](https://github.com/manakcodes/code-brew/blob/main/README.md)
-
----
+[all projects](https://github.com/manakcodes/code-brew/blob/main/README.md)
 
 ## 🛠️ Tech Stack
 
-### 💻 Tools of the Trade (and Occasional Chaos)
-
-#### 🧬 Languages
+### 🧬 Languages
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" alt="java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" alt="typescript" />
+  
 </p>
 
-#### 🧃 Frameworks / Libraries
+### 🧃 Frameworks / Libraries
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-plain.svg" width="60" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-plain.svg" width="60" alt="Pandas" />
+  
 </p>
 
-#### 🛢️ Databases
+### 🛢️ Databases
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" alt="MySQL" />
@@ -104,14 +98,14 @@ explore the chaos → [all projects](https://github.com/manakcodes/code-brew/blo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" alt="mongodb" />
 </p>
 
-#### 🕸️ Web
+### 🕸️ Web
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" alt="CSS" />
 </p>
 
-#### ⚙️ Tools / Version Control
+### ⚙️ Tools / Version Control
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git" />
@@ -119,7 +113,7 @@ explore the chaos → [all projects](https://github.com/manakcodes/code-brew/blo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" alt="bash" />
 </p>
 
-#### 🧪 Scientific
+### 🧪 Scientific
 
 <p align="left">
 
@@ -129,14 +123,9 @@ explore the chaos → [all projects](https://github.com/manakcodes/code-brew/blo
 
 ### 🛝 IDEs & Editors
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VS Code" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="60" alt="Xcode" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VS Code" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nano/nano-original.svg" width="60" alt="Nano" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="60" alt="Vim" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="60" alt="IntelliJ" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" width="60" alt="CLion" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="60" alt="PyCharm" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg" width="60" alt="Spyder" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60" alt="Jupyter" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="60" alt="Vim" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60" alt="Jupyter" />
 
 ---
 
